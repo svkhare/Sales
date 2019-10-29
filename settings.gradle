@@ -1,0 +1,3 @@
+rootProject.name = 'Sales'
+include "applications:Product"
+include "applications:Order"
